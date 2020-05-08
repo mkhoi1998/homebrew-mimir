@@ -1,5 +1,5 @@
-class Bifrost < Formula
-  desc "Bifrost"
+class Mimir < Formula
+  desc "Mimir"
   homepage "hhttps://github.com/mkhoi1998/mimir"
   url "https://github.com/mkhoi1998/mimir/archive/v1.0.0.tar.gz"
   version "1.0.0"
