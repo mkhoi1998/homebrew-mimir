@@ -7,6 +7,7 @@ class Mimir < Formula
 
   def install
     system "make", "build-mac"
-    bin.install "build/mimir"
+    system "ls"
+    bin.install "/mimir/build/mimir"
   end
 end
